@@ -1,9 +1,9 @@
 name: binder-environment
 channels:
-	- conda-forge
-	- defaults
+    - conda-forge
+    - defaults
 dependencies:
-	- jupyter
-	- matplotlib
-	- numpy
-	- cartopy
+    - jupyter
+    - matplotlib
+    - numpy
+    - cartopy
