@@ -3,7 +3,7 @@ This repository contains the tutorial "From Matlab to Python" which is part of t
 
 Please use Binder via the link below to launch this tutorial in your web browser:
 
-https://mybinder.org/v2/gh/khaynie-usgs/matlab_to_python.git/main
+https://mybinder.org/v2/gh/khaynie-usgs/matlab_to_python.git/main?filepath=matlab_to_python.ipynb
 
 If you prefer to run the notebook locally, clone the repository and run the following commands:
 
