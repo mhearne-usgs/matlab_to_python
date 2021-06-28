@@ -1,17 +1,17 @@
 # From Matlab to Python
-This repository contains the tutorial titled From Matlab to Python that are part of the 2021 GHSC HazDev Summer Python Tutorial Series.
+This repository contains the tutorial "From Matlab to Python" which is part of the 2021 GHSC HazDev Summer Python Tutorial Series.
 
-Please use Binder to launch this tutorial in your web browser using the link below 
+Please use Binder via the link below to launch this tutorial in your web browser:
 
 https://mybinder.org/v2/gh/khaynie-usgs/matlab_to_python/master
 
-If you prefer to run the notebook locally, please make sure you have Anaconda or Miniconda* installed and run the following:
+If you prefer to run the notebook locally, clone the repository and run the following commands:
 
 - `bash install.sh`
 - `conda activate py_tutorial2`
 - `jupyter notebook matlab_to_python.ipynb`
 
-\*Installing Anaconda or Miniconda
+\*Note: Anaconda or Miniconda must be installed first
 
 - https://docs.anaconda.com/anaconda/install/
 - https://docs.conda.io/en/latest/miniconda.html
